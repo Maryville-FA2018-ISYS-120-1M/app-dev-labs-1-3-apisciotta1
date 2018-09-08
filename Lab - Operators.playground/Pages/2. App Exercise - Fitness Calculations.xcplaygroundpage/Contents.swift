@@ -26,5 +26,5 @@ print("This differs from my previous average because it is more specific and doe
  */
 let steps = 3467.0
 let goal = 10000.0
-let percentOfGoal = steps / goal
+let percentOfGoal = steps / goal * 100
 //: [Previous](@previous)  |  page 2 of 8  |  [Next: Exercise - Compound Assignment](@next)
