@@ -13,5 +13,6 @@ steps += 1
  You decide, however, to display the distance in meters. 1 meter is approximately equal to 3 feet. Use a compound assignment operator to convert `distance` to meters. Print the result.
  */
 var distance = 50.0
-distance 
+distance /= 3
+print(distance)
 //: [Previous](@previous)  |  page 4 of 8  |  [Next: Exercise - Order of Operations](@next)
